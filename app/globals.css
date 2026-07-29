@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'katex/dist/katex.min.css';
+
+body {
+  background-color: #0d0d0d;
+  color: #ffffff;
+  font-family: monospace;
+}
